@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=3V3 Pin=LED3-2
+Removed Pin From Net: NetName=IO_4 Pin=LED3-4
+Removed Pin From Net: NetName=GND Pin=LED3-5
+Removed Member From Class: ClassName=U_Power_Section Member=LED3
+Change Component Footprint: Designator=DF4 Old Footprint=4-MicroDIP/SMD New Footprint=DF-S
+Change Component Footprint: Designator=F1 Old Footprint=0679H1500-05 New Footprint=AF2-1.50V125TM
+Change Component Footprint: Designator=C5 Old Footprint=865060643005 New Footprint=EEE-HB1H100P
+Change Component Footprint: Designator=CF4 Old Footprint=UCD1C102MNL1GS New Footprint=EEE-HA1A102P
+Added Component: Designator=LED2(1655)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Blue,Green,Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.mouser.com/ds/2/737/SK6812_LED_datasheet_-953546.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.mouser.com/ds/2/737/SK6812_LED_datasheet_-953546.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=4.5 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2943"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1528-1104-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=IO_4 Pin=LED2-2
+Added Pin To Net: NetName=3V3 Pin=LED2-3
+Added Member To Class: ClassName=U_Power_Section Member=Component LED2 1655
