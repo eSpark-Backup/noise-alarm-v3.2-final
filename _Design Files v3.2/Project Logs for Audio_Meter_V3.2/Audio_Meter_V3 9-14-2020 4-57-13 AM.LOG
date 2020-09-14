@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VBUS Pin=C76-2
+Removed Pin From Net: NetName=IO_4 Pin=LED2-2
+Removed Pin From Net: NetName=VBUS Pin=Q4-1
+Removed Pin From Net: NetName=VBUS Pin=R56-1
+Removed Pin From Net: NetName=3V3 Pin=R57-1
+Removed Pin From Net: NetName=IO_4# Pin=U5-26
+Change Component Description : Designator=F1 Old Description=Chip Fuse Fast Blow 1.5A 62mO 100A AC,50A AC,50A DC 1.19 2410 Surface Mount Fuses RoHS New Description=Chip Fuse Fast Blow 1.5A 62mO 100A AC,50A AC,50A DC 1.19 2410 Surface Mount Fuses RoHS
+Added Pin To Net: NetName=3V3 Pin=C76-2
+Added Pin To Net: NetName=IO_4# Pin=LED2-2
+Added Pin To Net: NetName=3V3 Pin=Q4-1
+Added Pin To Net: NetName=3V3 Pin=R56-1
+Added Pin To Net: NetName=VBUS Pin=R57-1
+Added Pin To Net: NetName=IO_4 Pin=U5-26
+Change Net Name : Old Net Name=IO_4# New Net Name=IO_4
+Change Net Name : Old Net Name=IO_4 New Net Name=IO_4#
+Added Room: Name=U_Audio_Section
+Added Room: Name=U_Battery Charging_Section
+Added Room: Name=U_Connector_Section
+Added Room: Name=U_Controller_Section
+Added Room: Name=U_Power_Section
+Added Room: Name=U_Power_Section_SMPS
+Added Room: Name=U_Sensor_Section
