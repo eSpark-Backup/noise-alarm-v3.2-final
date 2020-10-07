@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=CF7-1
+Removed Pin From Net: NetName=GND Pin=CF8-2
+Removed Pin From Net: NetName=GND Pin=CF9-2
+Removed Pin From Net: NetName=GND Pin=CF10-2
+Removed Pin From Net: NetName=GND Pin=CF11-2
+Removed Pin From Net: NetName=GND Pin=DF4-2
+Removed Pin From Net: NetName=AC1 Pin=DF4-3
+Removed Pin From Net: NetName=AC2 Pin=F1-1
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=GND Pin=IC1-10
+Removed Pin From Net: NetName=GND Pin=IC2-3
+Removed Pin From Net: NetName=GND Pin=IC3-2
+Removed Pin From Net: NetName=GND Pin=RF5-1
+Removed Pin From Net: NetName=GND Pin=RF6-1
+Removed Pin From Net: NetName=GND Pin=RF7-2
+Removed Pin From Net: NetName=GND Pin=RF9-1
+Removed Pin From Net: NetName=GND Pin=RF11-1
+Removed Pin From Net: NetName=GND Pin=RF12-1
+Added Pin To Net: NetName=VOUT Pin=J6-1
+Added Pin To Net: NetName=VOUT Pin=P18-1
+Added Pin To Net: NetName=VOUT Pin=SB1-2
+Added Net: Name=VOUT
+Added Room: Name=U_Audio_Section
+Added Room: Name=U_Battery Charging_Section
+Added Room: Name=U_Connector_Section
+Added Room: Name=U_Controller_Section
+Added Room: Name=U_Power_Section
+Added Room: Name=U_Sensor_Section
