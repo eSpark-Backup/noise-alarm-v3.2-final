@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=BR# Pin=DF4-2
+Removed Pin From Net: NetName=AC2 Pin=DF4-4
+Added Pin To Net: NetName=AC2 Pin=DF4-2
+Added Pin To Net: NetName=BR# Pin=DF4-4
+Added Member To Class: ClassName=U_SMPS_Section Member=Component C5 10uF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component CF1 1000pF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component CF3 1nF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component CF4 1nF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component CF7 10uF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component CF8 4700pF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component CF9 1000uF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component CF10 4.7uF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component CF11 4.7uF
+Added Member To Class: ClassName=U_SMPS_Section Member=Component D1 MURS160T3G
+Added Member To Class: ClassName=U_SMPS_Section Member=Component D2 MMSZ5229BT1
+Added Member To Class: ClassName=U_SMPS_Section Member=Component D3 MMSD4148T1G
+Added Member To Class: ClassName=U_SMPS_Section Member=Component DF4 DF04S-T
+Added Member To Class: ClassName=U_SMPS_Section Member=Component IC2 SFH615A-4X018T
+Added Member To Class: ClassName=U_SMPS_Section Member=Component IC3 NCP1014ST100T3G
+Added Member To Class: ClassName=U_SMPS_Section Member=Component L1 820uH
+Added Member To Class: ClassName=U_SMPS_Section Member=Component RF2 150K
+Added Member To Class: ClassName=U_SMPS_Section Member=Component RF6 10R
+Added Member To Class: ClassName=U_SMPS_Section Member=Component RF7 2K
+Added Member To Class: ClassName=U_SMPS_Section Member=Component RF8 200R
+Added Member To Class: ClassName=U_SMPS_Section Member=Component RF10 0.62R
+Added Member To Class: ClassName=U_SMPS_Section Member=Component RF11 68R
+Added Member To Class: ClassName=U_SMPS_Section Member=Component RF12 18R
+Added Member To Class: ClassName=U_SMPS_Section Member=Component TR1 750311558
