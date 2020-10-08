@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Audio_Meter_V3.2.PrjPcb]
+   Generated File[Pick Place for Audio_Meter_V3.2.txt]
+   Generated File[Pick Place for Audio_Meter_V3.2.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 3:53:02 PM On 10/8/2020
